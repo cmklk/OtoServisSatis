@@ -1,0 +1,17 @@
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Service.deps.json
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Service.dll
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Service.pdb
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.AssemblyInfoInputs.cache
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.AssemblyInfo.cs
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.csproj.CoreCompileInputs.cache
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.dll
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\refint\OtoServisSatis.Service.dll
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.pdb
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\ref\OtoServisSatis.Service.dll
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Data.dll
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Data.pdb
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.csproj.AssemblyReference.cache
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net7.0\OtoServisSatis.Service.csproj.CopyComplete

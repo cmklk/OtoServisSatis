@@ -1,0 +1,44 @@
+﻿@model IEnumerable<OtoServisSatis.Entities.Arac>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+
+            <th>@Html.DisplayNameFor(model => model.Renk)</th>
+            <th>@Html.DisplayNameFor(model => model.Fiyat)</th>
+            <th>@Html.DisplayNameFor(model => model.Model)</th>
+            <th> @Html.DisplayNameFor(model => model.KasaTipi)</th>
+            <th> @Html.DisplayNameFor(model => model.ModelYil)</th>
+            <th>@Html.DisplayNameFor(model => model.SatistaMi)</th>
+           <th>@Html.DisplayNameFor(model => model.Marka) </th>
+            <th>@Html.DisplayNameFor(model => model.Resim1) </th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td> @Html.DisplayFor(modelItem => item.Renk) </td>
+            <td> @Html.DisplayFor(modelItem => item.Fiyat)</td>
+            <td> @Html.DisplayFor(modelItem => item.Model)</td>
+            <td> @Html.DisplayFor(modelItem => item.KasaTipi)</td>
+            <td>@Html.DisplayFor(modelItem => item.ModelYil)</td>
+            <td> @Html.DisplayFor(modelItem => item.SatistaMi)</td>
+           <td>@Html.DisplayFor(modelItem => item.Marka.Adi)</td>
+                <td><img src="/Img/@item.Resim1"  alt="" height="40"/></td>
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Düzenle <i class="bi bi-pencil"></i></a> |
+               
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Sil <i class="bi bi-trash"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+  
+</table>
+<a asp-action="Create" class="btn btn-primary">Yeni Araç Ekle <i class="bi bi-database"></i></a>

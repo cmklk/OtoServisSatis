@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vj01+EXBvn/CFNe0FJWX0tOCNRoAMXx/AHVp7GnJMXDc7fWS7dx6iU7/qqDTarsMtV/sll0S15QVbwtPNxpHYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emka1\\OneDrive\\Masaüstü\\OtoServisSatis\\OtoServisSatis.Entities\\OtoServisSatis.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emka1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\emka1\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\emka1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,41 @@
+﻿@model OtoServisSatis.Entities.Satis
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="row">
+    <div class="col-md-8">
+        <h3 class="my-3 text-danger"> Yeni Satış Ekleme Paneli</h3>
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="AracId" class="control-label"></label>
+                <select asp-for="AracId" class ="form-control" asp-items="ViewBag.AracId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="MusteriId" class="control-label"></label>
+                <select asp-for="MusteriId" class ="form-control" asp-items="ViewBag.MusteriId" ></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="SatisFiyati" class="control-label"></label>
+                <input asp-for="SatisFiyati" class="form-control" />
+                <span asp-validation-for="SatisFiyati" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SatisTarihi" class="control-label"></label>
+                <input asp-for="SatisTarihi" class="form-control" />
+                <span asp-validation-for="SatisTarihi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Satış Bilgilerini Ekle" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-danger">Geri Dön</a>
+</div>
+

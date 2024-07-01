@@ -1,0 +1,34 @@
+﻿@model OtoServisSatis.Entities.Arac
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+
+<h5><strong class="text-danger">UYARI!!</strong> Araç bilgileri silinecektir. Silmek istediğinize emin misiniz?</h5>
+<div>
+    
+    <dl class="row">
+        <dt class = "col-sm-2"> @Html.DisplayNameFor(model => model.Renk)</dt>
+        <dd class = "col-sm-10">@Html.DisplayFor(model => model.Renk)</dd>
+        <dt class = "col-sm-2">@Html.DisplayNameFor(model => model.Fiyat)</dt>
+        <dd class = "col-sm-10"> @Html.DisplayFor(model => model.Fiyat)</dd>
+        <dt class = "col-sm-2"> @Html.DisplayNameFor(model => model.Model)</dt>
+        <dd class = "col-sm-10">@Html.DisplayFor(model => model.Model) </dd>
+        <dt class = "col-sm-2">@Html.DisplayNameFor(model => model.KasaTipi) </dt>
+        <dd class = "col-sm-10"> @Html.DisplayFor(model => model.KasaTipi)</dd>
+        <dt class = "col-sm-2"> @Html.DisplayNameFor(model => model.ModelYil) </dt>
+        <dd class = "col-sm-10">@Html.DisplayFor(model => model.ModelYil)</dd>
+        <dt class = "col-sm-2">@Html.DisplayNameFor(model => model.SatistaMi)</dt>
+        <dd class = "col-sm-10">@Html.DisplayFor(model => model.SatistaMi)</dd>
+        <dt class = "col-sm-2"> @Html.DisplayNameFor(model => model.Notlar)</dt>
+        <dd class = "col-sm-10">@Html.DisplayFor(model => model.Notlar)</dd>
+        <dt class = "col-sm-2">@Html.DisplayNameFor(model => model.Marka) </dt>
+        <dd class = "col-sm-10">@Html.DisplayFor(model => model.Marka.Adi)</dd>
+    </dl> 
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Sil" class="btn btn-primary" /> |
+        <a asp-action="Index" class="btn btn-danger">Geri Dön</a>
+    </form>
+</div>

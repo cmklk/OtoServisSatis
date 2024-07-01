@@ -1,0 +1,100 @@
+﻿@model OtoServisSatis.Entities.Arac
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="row">
+    <div class="col-md-8">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            
+            <div class="form-group">
+                <label asp-for="MarkaId" class="control-label"></label>
+                <select asp-for="MarkaId" class="form-control" asp-items="ViewBag.MarkaId"></select>
+                <span asp-validation-for="MarkaId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Renk" class="control-label"></label>
+                <input asp-for="Renk" class="form-control" />
+                <span asp-validation-for="Renk" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fiyat" class="control-label"></label>
+                <input asp-for="Fiyat" class="form-control" />
+                <span asp-validation-for="Fiyat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Model" class="control-label"></label>
+                <input asp-for="Model" class="form-control" />
+                <span asp-validation-for="Model" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KasaTipi" class="control-label"></label>
+                <input asp-for="KasaTipi" class="form-control" />
+                <span asp-validation-for="KasaTipi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ModelYil" class="control-label"></label>
+                <input asp-for="ModelYil" class="form-control" />
+                <span asp-validation-for="ModelYil" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vites" class="control-label"></label>
+                <input asp-for="Vites" class="form-control" />
+                <span asp-validation-for="Vites" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Kilometre" class="control-label"></label>
+                <input asp-for="Kilometre" class="form-control" />
+                <span asp-validation-for="Kilometre" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Yakit" class="control-label"></label>
+                <input asp-for="Yakit" class="form-control" />
+                <span asp-validation-for="Yakit" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="SatistaMi" /> @Html.DisplayNameFor(model => model.SatistaMi)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Notlar" class="control-label"></label>
+                <textarea asp-for="Notlar" class="form-control" rows="4"></textarea>
+                <span asp-validation-for="Notlar" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Resim1" class="control-label"></label>
+                <input asp-for="Resim1" class="form-control" type="file">
+              
+               
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Resim2" class="control-label"></label>
+                <input asp-for="Resim2" class="form-control" type="file">
+               
+              
+            </div>
+            <div class="form-group">
+                <label asp-for="Resim3" class="control-label"></label>
+                <input asp-for="Resim3" class="form-control" type="file">
+               
+               
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Araç Bilgilerini Güncelle" class="btn btn-primary my-2" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-danger">Geri Dön</a>
+</div>
+

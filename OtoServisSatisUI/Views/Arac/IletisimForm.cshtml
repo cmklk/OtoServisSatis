@@ -1,0 +1,36 @@
+﻿@model Iletisim
+@{
+    ViewData["Title"] = "IletisimForm";
+    Layout = "~/Views/Shared/OtoServisSatisUILayout.cshtml";
+}
+
+<section class="back">
+    <h2 class="contact">İletişim</h2>
+</section>
+<section class="information-boxs">
+    <div class="container">
+        <div class="row d-flex justify-content-center">
+            <div class="col-lg-8 col-md-12 col-sm-12 contact-form animate-top">
+                <h3>İletişim Formu</h3>
+                <form class="my-5" method="post">
+                    <input type="text" asp-for="Ad"  placeholder="Ad" class="form-control" />
+                    <br />
+                    <input type="text" asp-for="Soyad" placeholder="Soyad" class="form-control" />
+                    <br />
+                    <input type="text" asp-for="Telefon" placeholder="Telefon" class="form-control" />
+                    <br />
+                    <input type="text"asp-for="Mail" placeholder="Mail" class="form-control" />
+                    <br />
+                    <input type="text" asp-for="Konu" placeholder="Konu" class="form-control" />
+                    <br />
+                    <textarea placeholder="Message"
+                              rows="10"
+                              class="form-control" asp-for="Açıklama"></textarea>
+                    <br />
+                    <input type="submit"  value="Gönder" class="btn btn-danger">
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+

@@ -1,0 +1,80 @@
+﻿@model Arac
+@{
+    ViewData["Title"] = "AracDetay";
+    Layout = "~/Views/Shared/OtoServisSatisUILayout.cshtml";
+}
+
+<style>
+    .icons {
+        padding: 0 20px 0 0;
+        color: gray;
+    }
+
+    .info-title {
+        font-size: 16px;
+        color: gray;
+    }
+
+    .info-answer{
+        float:right;
+    }
+
+</style>
+
+
+<section class="car-details my-5">
+    <div class="container">
+        <div class="row d-flex justify-content-center align-items-center">
+            <div class="col-lg-4 col-md-6 col-sm-12 animate-top">
+                <div id="carouselExample" class="carousel slide">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="/Img/@Model.Resim1" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="/Img/@Model.Resim2" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="/Img/@Model.Resim3" class="d-block w-100" alt="...">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+                <br /> 
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 animate-bottom">
+                <div class="car-details-info">
+                    <ul class="list-group">
+                        <li class="list-group-item text-danger text-center">Araç Bilgileri</li>
+                        <li class="list-group-item"><i class="bi bi-dropbox icons"></i><span class="info-title">Marka :</span> <span class="info-answer">@Model.Marka.Adi</span> </li>
+                        <li class="list-group-item"><i class="bi bi-info-square icons"></i> <span class="info-title">Model :</span> <span class="info-answer">@Model.Model</span> </li>
+                        <li class="list-group-item"><i class="bi bi-car-front icons"></i><span class="info-title">Kasa  :</span> <span class="info-answer">@Model.KasaTipi</span> </li>
+                        <li class="list-group-item"><i class="bi bi-eyedropper icons"></i>  <span class="info-title">Renk  :</span> <span class="info-answer">@Model.Renk</span>  </li>
+                        <li class="list-group-item"><i class="bi bi-speedometer icons"></i><span class="info-title">Km    :</span> <span class="info-answer">@Model.Kilometre</span> </li>
+                        <li class="list-group-item"><i class="bi bi-fuel-pump-diesel icons"></i><span class="info-title">Yakıt :</span>  <span class="info-answer">@Model.Yakit</span>  </li>
+                        <li class="list-group-item"><i class="bi bi-palette icons"></i>  <span class="info-title">Renk  :</span>  <span class="info-answer">@Model.Renk</span> </li>
+                        <li class="list-group-item"><i class="bi bi-info-circle icons"></i> <span class="info-title">Vites :</span><span class="info-answer">@Model.Vites</span> </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row text-center animate-top">
+                <div class="col-lg-5">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Bilgi Al</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+          <partial name="BilgiAl" model="null" /> 

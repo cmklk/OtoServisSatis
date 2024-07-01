@@ -1,0 +1,26 @@
+﻿@model List<Slider>
+@{
+    ViewData["Title"] = "SliderList";
+    Layout = "~/Views/Shared/OtoServisSatisUILayout.cshtml";
+}
+
+<section class="slider">
+    <div class="swiper mySwiper">
+        <div class="swiper-wrapper">
+            @foreach(var item in Model)
+            {
+                <div class="swiper-slide">
+                    <img src="/Img/Slider/@item.Resim" />
+                    <div class="img-center-text">
+                        <h5 class="img-title" style="font-size:20px;">@item.Baslik</h5>
+                        <p class="img-description" style="font-size:15px;">@item.Acikalama </p>
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-pagination"></div>
+    </div>
+</section>
+

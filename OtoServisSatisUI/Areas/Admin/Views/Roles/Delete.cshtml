@@ -1,0 +1,27 @@
+﻿@model OtoServisSatis.Entities.Rol
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+
+
+<h5 class=""> <strong class="text-danger">UYARI!!!</strong> Rol Bilgilerini Silmek İstiyor Musunuz?</h5>
+<div>
+   
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Adi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Adi)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Rol Bilgilerini Sil" class="btn btn-primary" /> |
+        <a asp-action="Index" class="btn btn-danger text-white">Geri Dön</a>
+    </form>
+</div>

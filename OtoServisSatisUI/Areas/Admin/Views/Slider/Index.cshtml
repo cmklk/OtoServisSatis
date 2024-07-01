@@ -1,0 +1,47 @@
+﻿@model IEnumerable<OtoServisSatis.Entities.Slider>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<h3 class="my-3 text-danger">Slider Listesi</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Baslik)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Acikalama)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Resim)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Baslik)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Acikalama)
+            </td>
+            <td>
+                    <img src="/Img/Slider/@item.Resim" height="40" />
+            </td>
+            <td>
+                <a asp-action="Edit" class="btn btn-warning " asp-route-id="@item.Id">Düzenle <i class="bi bi-pencil"></i></a> |
+              |
+                <a asp-action="Delete" class="btn btn-danger" asp-route-id="@item.Id">Sil <i class="bi bi-trash"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<a href="/Admin/Slider/Create" class="btn btn-primary">Yeni Slider Ekle <i class="bi bi-database-add"></i></a>

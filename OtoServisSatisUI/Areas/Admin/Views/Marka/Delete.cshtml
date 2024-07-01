@@ -1,0 +1,25 @@
+﻿@model OtoServisSatis.Entities.Marka
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h5><strong class="text-danger">Uyarı!</strong>Marka bilgileri silinecektir.</h5>
+<div>
+
+    
+    <dl class="row my-3">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Adi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Adi)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Evet Sil." class="btn btn-danger" /> |
+        <a asp-action="Index" class="btn btn-primary">Geri Dön</a>
+    </form>
+</div>

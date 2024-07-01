@@ -1,0 +1,41 @@
+.back {
+    background: url("img/contact_.jpg");
+    padding: 120px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    background-attachment: fixed;
+    color: #ffff;
+  }
+  
+  iframe {
+    width: 100%;
+    margin: 40px 0;
+  }
+  
+  .contact-col {
+    margin: 50px 0;
+    padding: 60px 0;
+  }
+  
+  .contact-icon i {
+    padding: 14px 16px;
+    background-color: rgb(166, 0, 0);
+    color: #fff;
+  }
+  
+  .details {
+    font-weight: 500;
+    font-size: 14px;
+    color: rgb(121, 121, 121);
+  }
+  
+  .contact-form input[type="text"] {
+    padding: 13px;
+    width: 100%;
+    border: 1px solid rgb(223, 223, 223);
+    outline: none;
+    border-radius: 4px;
+  }
+  

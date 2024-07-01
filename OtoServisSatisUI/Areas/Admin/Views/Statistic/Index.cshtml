@@ -1,0 +1,72 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-4 col-md-3 col-sm-6 my-3">
+        <div class="card bg-danger bg-gradient">
+            <h4 class="text-center text-white my-3">Araç Sayısı</h4>
+            <h5 class="text-center text-white my-2">@ViewBag.arac </h5>
+        </div>
+    </div>
+
+    <div class="col-lg-4 col-md-3 col-sm-6 my-3">
+        <div class="card bg-dark bg-gradient">
+            <h4 class="text-center text-white my-3">Marka Sayısı</h4>
+            <h5 class="text-center text-white my-2">@ViewBag.marka </h5>
+        </div>
+    </div>
+
+    <div class="col-lg-4 col-md-3 col-sm-6 my-3">
+        <div class="card bg-info bg-gradient">
+            <h4 class="text-center text-white my-3">Müşteri Sayısı</h4>
+            <h5 class="text-center text-white my-2">@ViewBag.musteriler </h5>
+        </div>
+    </div>
+
+    <div class="col-lg-4 col-md-3 col-sm-6 my-3">
+        <div class="card bg-warning bg-gradient">
+            <h4 class="text-center text-white my-3">Çalısan Sayısı</h4>
+            <h5 class="text-center text-white my-2">@ViewBag.kullanicilar </h5>
+        </div>
+    </div>
+
+    <div class="col-lg-4 col-md-3 col-sm-6 my-3">
+        <div class="card bg-primary bg-gradient">
+            <h4 class="text-center text-white my-3">Satış Sayısı</h4>
+            <h5 class="text-center text-white my-2">@ViewBag.satislar </h5>
+        </div>
+    </div>
+
+    <div class="col-lg-4 col-md-3 col-sm-6 my-3">
+        <div class="card bg-success">
+            <h4 class="text-center text-white my-3">Servis Sayısı</h4>
+            <h5 class="text-center text-white my-2">@ViewBag.servisler </h5>
+        </div>
+    </div>
+
+    <div class="col-lg-4 col-md-3 col-sm-6 my-3">
+        <div class="card bg-primary">
+            <h4 class="text-center text-white my-3">Slider Sayısı</h4>
+            <h5 class="text-center text-white my-2">@ViewBag.sliders </h5>
+        </div>
+    </div>
+
+    <div class="col-lg-4 col-md-3 col-sm-6 my-3">
+        <div class="card bg-dark">
+            <h4 class="text-center text-white my-3">Bilgi Al Mesaj Sayısı</h4>
+            <h5 class="text-center text-white my-2">@ViewBag.bilgiAls </h5>
+        </div>
+    </div>
+
+
+    <div class="col-lg-4 col-md-3 col-sm-6 my-3">
+        <div class="card bg-danger">
+            <h4 class="text-center text-white my-3">İletişim Mesajları</h4>
+            <h5 class="text-center text-white my-2">@ViewBag.mesajlars </h5>
+        </div>
+    </div>
+
+</div>

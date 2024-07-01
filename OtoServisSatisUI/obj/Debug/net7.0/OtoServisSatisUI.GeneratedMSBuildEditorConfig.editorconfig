@@ -1,0 +1,259 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OtoServisSatisUI
+build_property.RootNamespace = OtoServisSatisUI
+build_property.ProjectDir = C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatisUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatisUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Arac/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJhY1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Arac/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJhY1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Arac/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJhY1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Arac/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJhY1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/BilgiAl/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmlsZ2lBbFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/BilgiAl/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmlsZ2lBbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Iletisim/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSWxldGlzaW1cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Iletisim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSWxldGlzaW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Kullanici/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS3VsbGFuaWNpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Kullanici/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS3VsbGFuaWNpXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Kullanici/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS3VsbGFuaWNpXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Kullanici/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS3VsbGFuaWNpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Main/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFpblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Marka/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFya2FcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Marka/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFya2FcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Marka/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFya2FcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Marka/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFya2FcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Musteri/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTXVzdGVyaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Musteri/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTXVzdGVyaVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Musteri/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTXVzdGVyaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Musteri/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTXVzdGVyaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Satis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2F0aXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Satis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2F0aXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Satis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2F0aXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Satis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2F0aXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Servis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmlzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Servis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmlzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Servis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmlzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Servis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmlzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Slider/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Slider/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Slider/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Slider/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Statistic/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RhdGlzdGljXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/Arac/aracAra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJhY1xhcmFjQXJhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/Arac/AracDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJhY1xBcmFjRGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/Arac/AracListesi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJhY1xBcmFjTGlzdGVzaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/Arac/BilgiAl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJhY1xCaWxnaUFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/Arac/IletisimForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJhY1xJbGV0aXNpbUZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/Home/AccessDenid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc3NEZW5pZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/Shared/OtoServisSatisUILayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE90b1NlcnZpc1NhdGlzVUlMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/Slider/SliderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVyXFNsaWRlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-z7stuu0ofc
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Areas/Admin/Views/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-ssrox09qls
+
+[C:/Users/emka1/OneDrive/Masaüstü/OtoServisSatis/OtoServisSatisUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-k3k5cyuh6e

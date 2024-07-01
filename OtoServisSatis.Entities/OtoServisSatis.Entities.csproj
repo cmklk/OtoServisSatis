@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\.editorconfig" />
+  </ItemGroup>
+
+</Project>

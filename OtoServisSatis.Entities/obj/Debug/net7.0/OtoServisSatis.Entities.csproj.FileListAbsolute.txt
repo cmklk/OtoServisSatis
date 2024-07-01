@@ -1,0 +1,11 @@
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.deps.json
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\bin\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.AssemblyInfoInputs.cache
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.AssemblyInfo.cs
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.csproj.CoreCompileInputs.cache
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.dll
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\refint\OtoServisSatis.Entities.dll
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\OtoServisSatis.Entities.pdb
+C:\Users\emka1\OneDrive\Masaüstü\OtoServisSatis\OtoServisSatis.Entities\obj\Debug\net7.0\ref\OtoServisSatis.Entities.dll
